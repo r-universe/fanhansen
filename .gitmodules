@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "creditmodel"]
+	path = creditmodel
+	url = https://github.com/cran/creditmodel
+	shallow = true
+	registered = true
